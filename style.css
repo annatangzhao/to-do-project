@@ -1,0 +1,176 @@
+
+  body {
+  	background-color: #C9C9C9;
+  	font-family: verdana;
+  	font-size: 15px;
+  }
+
+  #main {
+  	margin: auto;
+  	width: 700px;
+  	background-color: white;
+  }
+
+  h1 {
+  	padding-top: 40px;
+  	width: 700px;
+    font-size: 48px;
+
+  }
+
+  .complete {
+  	text-decoration: line-through;
+  }
+
+  .incomplete {
+  	color: black;
+  }
+
+#row {
+  display:table-row;
+  }
+
+/*.work {
+  	text-align: left;
+  	width: 300px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    word-wrap: break-word;
+    display: table-cell;
+  }
+
+  .play {
+    text-align: left;
+    width: 300px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    word-wrap: break-word;
+    display: table-cell;
+  }*/
+
+.list {
+    text-align: center;
+    width: 650px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    word-wrap: break-word;
+  }
+
+  #heading {
+  	width: 700px;
+  }
+
+  #newTasks {
+  	width: 700px;
+  }
+
+  #delete {
+  	position: relative;
+  	top: 4px;
+  }
+
+  #buttons {
+  	width: 700px;
+    padding-bottom: 50px;
+  }
+
+  #grey {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #C9C9C9;
+    display: inline-block;
+  }
+
+  #green {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #A1D1B5;
+    display: inline-block;
+  }
+
+  #yellow {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #F3DE8A;
+    display: inline-block;
+  }
+
+  #red {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #EB9486;
+    display: inline-block;
+  }
+
+  #purple {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #9697B7;
+    display: inline-block;
+  }
+
+  #blue {
+    border-radius: 25px;
+    height: 30px;
+    width: 30px;
+    background-color: #9EB7BC;
+    display: inline-block;
+  }
+
+  form {
+    font-size: small
+  }
+
+  #numberDone {
+    font-size: large;
+  }
+
+.tags {
+    background-color: darkgrey;
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    position: relative;
+    left: 9px;
+    bottom: 4px;
+    padding: 3px;
+    margin: 4px;
+}
+
+.bottomTag {
+    background-color: darkgrey;
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+    position: relative;
+    left: 9px;
+    bottom: 4px;
+    padding: 3px;
+    margin: 4px;
+}
+
+.buttons {
+    background-color: #C9C9C9;
+    color: white;
+    font-size: 12px;
+    display: inline-block;
+ /*   position: relative;
+    left: 9px;
+    bottom: 4px;*/
+    padding: 3px;
+    margin: 4px;
+}
+
+.tagsRow {
+  height: 50px;
+  display: block;
+}
+
