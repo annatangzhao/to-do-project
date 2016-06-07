@@ -167,6 +167,9 @@
     bottom: 4px;*/
     padding: 3px;
     margin: 4px;
+    box-shadow: none;
+    border: none;
+    font-family: verdana;
 }
 
 .tagsRow {
